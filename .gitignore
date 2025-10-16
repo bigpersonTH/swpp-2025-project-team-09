@@ -38,5 +38,6 @@ android-app/.cxx
 # *.jpeg: 모든 .jpeg 파일을 무시 (대용량 바이너리 파일을 Git으로 추적하지 않기 위함)
 *.jpeg
 *.jpg
-
+*.mp3
+!backend/sample_page.jpeg
 venv/
