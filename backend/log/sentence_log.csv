@@ -1,8 +1,14 @@
 page_file,index,ko,translation,tone,emotion,pacing,voice,path,trans_latency,senti_latency,tts_latency
-0265477b-c1f8-4e4b-9953-e93533e11cdf_0_3.jpg,1,프레드릭이 이야기를 마치자.,As Frederick finished his story.,Reflective and warm,"Content and satisfied, with a hint of nostalgia","Slow and measured, allowing for pauses to emphasize the conclusion",shimmer,out_audio/0265477b-c1f8-4e4b-9953-e93533e11cdf_0_3_sent1.mp3,0.989,1.484,0.946
-0265477b-c1f8-4e4b-9953-e93533e11cdf_0_3.jpg,2,들쥐들은 박수를 치며 감탄을 했습니다.,The field mice applauded and were amazed.,Joyful and celebratory,Excited and delighted,"Upbeat and lively, with a rhythmic flow",shimmer,out_audio/0265477b-c1f8-4e4b-9953-e93533e11cdf_0_3_sent2.mp3,0.825,1.199,1.329
-0265477b-c1f8-4e4b-9953-e93533e11cdf_0_3.jpg,3,"""프레드릭, 넌 시인이야!""","""Frederick, you are a poet!""",Excited and encouraging,Joyful pride and enthusiasm,"Quick and lively, with a bounce in each phrase",shimmer,out_audio/0265477b-c1f8-4e4b-9953-e93533e11cdf_0_3_sent3.mp3,1.025,1.254,1.233
-0265477b-c1f8-4e4b-9953-e93533e11cdf_0_2.jpg,1,"""눈송이는 누가 뿌릴까? 얼음은 누가 녹일까?
+42c0741b-534a-454a-a1d0-864da40a34c7_0_1.jpg,1,"""이야기는?""
+프레드릭은 목소리를 가다듬으며
+잠시 동안 가만히 있었습니다.","""What about the story?"" Frederick paused for a moment, gathering his voice.",Curious and contemplative,Reflective and slightly anxious,"Slow and deliberate, with pauses for emphasis",shimmer,out_audio/42c0741b-534a-454a-a1d0-864da40a34c7_0_1_sent1.mp3,1.16,1.32,1.729
+42c0741b-534a-454a-a1d0-864da40a34c7_0_1.jpg,2,"그리고는 마치 무대 위에서
+공연이라도 하듯 말하기
+시작했습니다.",And then he began to speak as if he were performing on a stage.,Dramatic and theatrical,Excited and engaging,"Measured, with emphasis on certain phrases",shimmer,out_audio/42c0741b-534a-454a-a1d0-864da40a34c7_0_1_sent2.mp3,0.934,1.526,1.599
+42c0741b-534a-454a-a1d0-864da40a34c7_0_3.jpg,1,프레드릭이 이야기를 마치자.,As Frederick finished his story.,Reflective and warm,Content and nostalgic,"Slow and steady, with pauses for emphasis",shimmer,out_audio/42c0741b-534a-454a-a1d0-864da40a34c7_0_3_sent1.mp3,1.1,1.103,1.212
+42c0741b-534a-454a-a1d0-864da40a34c7_0_3.jpg,2,들쥐들은 박수를 치며 감탄을 했습니다.,The field mice applauded and expressed their admiration.,Joyful and enthusiastic,Excited and amazed,"Energetic, with a lively rhythm",shimmer,out_audio/42c0741b-534a-454a-a1d0-864da40a34c7_0_3_sent2.mp3,1.086,1.843,1.344
+42c0741b-534a-454a-a1d0-864da40a34c7_0_3.jpg,3,"""프레드릭, 넌 시인이야!""","""Frederick, you are a poet!""",Excited and encouraging,Joyfully proud,Energetic and brisk,shimmer,out_audio/42c0741b-534a-454a-a1d0-864da40a34c7_0_3_sent3.mp3,1.131,0.933,0.935
+42c0741b-534a-454a-a1d0-864da40a34c7_0_2.jpg,1,"""눈송이는 누가 뿌릴까? 얼음은 누가 녹일까?
 궂은 · 날씨는 누가 가져올까? 맑은 날씨는 누가 가져올까?
 유월의 네 잎 클로버는 누가 피워 낼까?
 날을 저물게 하는 건 누구일까? 달빛을 밝히는 건 누구일까?
@@ -13,10 +19,4 @@ page_file,index,ko,translation,tone,emotion,pacing,voice,path,trans_latency,sent
 가을쥐는 열매와 밀을 가져온다네.
 겨울쥐는 오들오들 작은 몸을 웅크리지.
 계절이 넷이니 얼마나 좋아?
-넘치지도 모자라지도 않는 딱 사계절.""","Who scatters the snowflakes? Who melts the ice? Who brings the stormy weather, and who brings the clear skies? Who will bloom the four-leaf clovers in June?","Curiously reflective, playful",Wondering and whimsical,"Gentle, with a rhythmic flow",shimmer,out_audio/0265477b-c1f8-4e4b-9953-e93533e11cdf_0_2_sent1.mp3,1.353,1.2,2.628
-0265477b-c1f8-4e4b-9953-e93533e11cdf_0_1.jpg,1,"""이야기는?""
-프레드릭은 목소리를 가다듬으며
-잠시 동안 가만히 있었습니다.","""What about the story?"" Frederick paused for a moment, collecting his thoughts.",Curiously contemplative,Pensive and slightly intrigued,"Slow, with a thoughtful pause",shimmer,out_audio/0265477b-c1f8-4e4b-9953-e93533e11cdf_0_1_sent1.mp3,1.576,1.026,1.446
-0265477b-c1f8-4e4b-9953-e93533e11cdf_0_1.jpg,2,"그리고는 마치 무대 위에서
-공연이라도 하듯 말하기
-시작했습니다.",And then he began to speak as if he were performing on stage.,"Dramatic and animated, as if performing","Excited and theatrical, capturing the joy of performance","Slow and deliberate, with pauses for emphasis",shimmer,out_audio/0265477b-c1f8-4e4b-9953-e93533e11cdf_0_1_sent2.mp3,1.117,1.456,3.107
+넘치지도 모자라지도 않는 딱 사계절.""",Who scatters the snowflakes? Who melts the ice? Who brings the stormy weather? Who brings the clear skies? Who causes the four-leaf clover to bloom in June?,"Curiously whimsical, light-hearted",Delightfully inquisitive and cheerful,"Playful and flowing, with a gentle rise and fall",shimmer,out_audio/42c0741b-534a-454a-a1d0-864da40a34c7_0_2_sent1.mp3,1.587,0.99,3.164

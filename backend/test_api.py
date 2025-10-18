@@ -100,7 +100,7 @@ def test_get_tts_result(session_id, page_index=0):
     return resp
 
 if __name__ == "__main__":
-    DEVICE_INFO = "test-device-004"
+    DEVICE_INFO = "test-device-000"
     LANG = "en"
 
     user_id = test_register_user(DEVICE_INFO, LANG)
