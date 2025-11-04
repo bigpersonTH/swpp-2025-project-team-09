@@ -52,7 +52,7 @@
             app:layout_constraintEnd_toEndOf="parent" />
 
         <!-- Headphone icon -->
-        <ImageView
+        <ImageButton
             android:id="@+id/manHeadphoneIcon"
             android:layout_width="64dp"
             android:layout_height="64dp"
@@ -94,7 +94,7 @@
             app:layout_constraintEnd_toEndOf="parent" />
 
         <!-- Headphone icon -->
-        <ImageView
+        <ImageButton
             android:id="@+id/womanHeadphoneIcon"
             android:layout_width="64dp"
             android:layout_height="64dp"
