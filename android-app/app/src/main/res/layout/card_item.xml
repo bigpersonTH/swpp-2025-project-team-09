@@ -46,7 +46,7 @@
         android:layout_height="64dp"
         android:translationX="8dp"
         android:translationY="8dp"
-        android:src="@drawable/ic_play"
+        android:src="@drawable/ic_left_arrow"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
