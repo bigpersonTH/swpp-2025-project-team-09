@@ -47,12 +47,18 @@ class LandingActivityMockitoTest {
     @Test
     fun whenServerReturns200_NavigatesToMain() = runTest {
         val loginResponse = UserLoginResponse("uid", "en")
-        val info = UserInfoResponse("uid", "title", "", "2025-10-29T00:00:00")
-
+        val info = UserInfoResponse(
+            user_id = "uid",
+            title = "title",
+            translated_title = "",
+            image_base64 = "",
+            started_at = "2025-10-29T00:00:00"
+        )
+        val infoListResponse = listOf(info)
         whenever(mockUserRepository.login(any()))
             .thenReturn(Response.success(loginResponse))
         whenever(mockUserRepository.getUserInfo(any()))
-            .thenReturn(Response.success(info))
+            .thenReturn(Response.success(infoListResponse))
 
         scenario = ActivityScenario.launch(LandingActivity::class.java)
         Thread.sleep(3000)
